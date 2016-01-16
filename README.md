@@ -51,11 +51,11 @@ Don't forget to put : influxDB_activated: "true"
 
 And you can show the result in influxDB.
 
-![InfluxDB Image ](https://github.com/patrickalin/GoNestThermostatAPIRest/blob/master/img/InfluxDB.png)
+![InfluxDB Image ](https://raw.githubusercontent.com/patrickalin/GoNestThermostatAPIRest/master/img/InfluxDB.png)
 
 You can display the result with Chronograph
 
-![InfluxDB Image ](https://github.com/patrickalin/GoNestThermostatAPIRest/blob/master/img/Chronograph.png)
+![Chronograph Image ](https://raw.githubusercontent.com/patrickalin/GoNestThermostatAPIRest/master/img/Chronograph.png)
 
 ## Sources 
 

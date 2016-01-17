@@ -25,6 +25,8 @@ don't forget to replace your secret ID.
     AmbientTemperatureC : 	20.5
     TargetTemperatureC : 	21.0
     Away : 	 	 	auto-away
+    
+Second execution
 
 ## Second execution with config.yaml
 
@@ -38,8 +40,10 @@ modify the config.yaml with the secretId
     docker run -d --name=nest -v $(PWD)/config.yaml:/go/src/GoNestThermostatAPIRest/config.yaml patrickalin/nestthermostat
 
     docker logs nest
+    
+## Third execution
 
-## Execution with influxDB
+### Execution with influxDB
 
 Modify the config.yaml with the configuration influxDB.
 Don't forget to put : influxDB_activated: "true"

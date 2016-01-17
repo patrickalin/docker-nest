@@ -7,7 +7,7 @@ The goal is to save your metrics from your nest into InfluxDB.
 
 After that, you can graph them in Chronograph or Grafana.
 
-##First execution
+## First execution
 
 ### First execution standalone
 
